@@ -32,7 +32,7 @@ To run with `N` processors do:
 mpirun -np N --mca btl ^openib sum3Dmatrix.x X Y Z < input
 ```
 
-where `X Y Z` are the grid of the virtual topology while in the `input` files there are the sizes of the matrixes.
+where `X Y Z` are the grid of the virtual topology while in the `input` files there are the sizes of the matrixes. `N` must be divide the sizes of the matrices.
 This execution will print the dimension of the input matrices and the walltime in two files, one per implementation:
 `output_matrix_topo`
 `output_matrix_no_topo`
