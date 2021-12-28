@@ -1,0 +1,31 @@
+GRID,	DIM,	MIN TIME,	SUM TIME,	MEAN TIME
+grid: (24 1 1),matrix sizes: 2400x100x100, mintime: 0.10858204 
+dim matrix: 2400x100x100,mintime: 0.12009991 
+grid: (12 2 1),matrix sizes: 2400x100x100, mintime: 0.10576662 
+dim matrix: 2400x100x100,mintime: 0.12055527 
+grid: (8 3 1),matrix sizes: 2400x100x100, mintime: 0.10276755 
+dim matrix: 2400x100x100,mintime: 0.12010038 
+grid: (6 2 2),matrix sizes: 2400x100x100, mintime: 0.10735770 
+dim matrix: 2400x100x100,mintime: 0.12605921 
+grid: (4 3 2),matrix sizes: 2400x100x100, mintime: 0.10396062 
+dim matrix: 2400x100x100,mintime: 0.12022854 
+grid: (24 1 1),matrix sizes: 1200x200x100, mintime: 0.10773507 
+dim matrix: 1200x200x100,mintime: 0.11765793 
+grid: (12 2 1),matrix sizes: 1200x200x100, mintime: 0.10487162 
+dim matrix: 1200x200x100,mintime: 0.12081928 
+grid: (8 3 1),matrix sizes: 1200x200x100, mintime: 0.10614595 
+dim matrix: 1200x200x100,mintime: 0.12179594 
+grid: (6 2 2),matrix sizes: 1200x200x100, mintime: 0.12051754 
+dim matrix: 1200x200x100,mintime: 0.11879256 
+grid: (4 3 2),matrix sizes: 1200x200x100, mintime: 0.10702107 
+dim matrix: 1200x200x100,mintime: 0.11956770 
+grid: (24 1 1),matrix sizes: 800x300x100, mintime: 0.10472054 
+dim matrix: 800x300x100,mintime: 0.11962442 
+grid: (12 2 1),matrix sizes: 800x300x100, mintime: 0.10602036 
+dim matrix: 800x300x100,mintime: 0.11877748 
+grid: (8 3 1),matrix sizes: 800x300x100, mintime: 0.10705144 
+dim matrix: 800x300x100,mintime: 0.11787953 
+grid: (6 2 2),matrix sizes: 800x300x100, mintime: 0.10554062 
+dim matrix: 800x300x100,mintime: 0.11804213 
+grid: (4 3 2),matrix sizes: 800x300x100, mintime: 0.11696298 
+dim matrix: 800x300x100,mintime: 0.12063388 
